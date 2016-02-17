@@ -7,7 +7,7 @@
 ## The app _will_ allow you to:
 
 - Create a skill 
-- Start the countdown from 10_0
+- Start the countdown from 10_000
 
 ## Contributing
 
@@ -16,4 +16,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/qwerty
 ## License
 
 The app is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+### You can check this app @ Heroku
 
