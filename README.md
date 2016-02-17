@@ -19,3 +19,4 @@ The app is available as open source under the terms of the [MIT License](http://
 
 ### You can check this app @ Heroku
 
+https://safe-waters-32783.herokuapp.com/
